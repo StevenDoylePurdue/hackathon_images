@@ -1,0 +1,5 @@
+train: Documents\GitHub\hackathon_images\labelme_json_dir\YOLODataset/images/train/
+val: Documents\GitHub\hackathon_images\labelme_json_dir\YOLODataset/images/val/
+test: Documents\GitHub\hackathon_images\labelme_json_dir\YOLODataset/images/test/
+nc: 3
+names: ['dragon_fruit', 'guiana_chestnut', 'fishbone_cactus']
